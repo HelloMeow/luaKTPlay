@@ -13,7 +13,6 @@
  * `KTPlayConversion.h`
  * `KTPlayConversion.m`
 * 将ios目录下的`ktplay_ios.lua`拷贝到`src/`下任意目录
-* 然后就可以使用了
 
 ### android
 
@@ -22,4 +21,3 @@
  * `KTPlayBridge.java`
  * `KTPlayConversion.java`
 * 将ios目录下的`ktplay_android.lua`拷贝到`src/`下任意目录
-* 然后就可以使用了
